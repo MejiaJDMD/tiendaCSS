@@ -30,7 +30,7 @@
 
 /* ESTILO HEADER */
 .head-colors {
-	color: white !important;
+	color: black !important;
 	fill: white !important;
 	background-image: url("https://res.cloudinary.com/djf458o6z/image/upload/v1760201620/WhatsApp_Image_2025-10-11_at_11.53.23_AM_cnryy2.jpg");
 	background-size: 100%;
@@ -39,15 +39,15 @@
 }
 
 .head-colors a {
-	color: white;
+	color: black;
 }
 
 .head-colors h1 {
-	color: white;
+	color: black;
 }
 
 .nav-desktop-container.nav-desktop-colors a, .nav-desktop-container.nav-desktop-colors button, .nav-desktop-container.nav-desktop-colors svg, .head-colors .nav-desktop-container.nav-desktop-colors a, .head-colors .nav-desktop-container.nav-desktop-colors button, .head-colors .nav-desktop-container.nav-desktop-colors svg {
-	color: white;
+	color: black;
 }
 
 .nav-desktop-container.nav-desktop-colors, .head-colors .nav-desktop-container.nav-desktop-colors {
