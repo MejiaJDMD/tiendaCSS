@@ -7,7 +7,7 @@
 	.js-timer-offers-title {
 		display: flex;
 		justify-content: center;
-		color: #ff8c00;
+		color: #2a8344;
 		font-size: 85px;
 		font-family: "Creepster", cursive;
 		text-shadow: 2px 2px 6px #000;
@@ -72,7 +72,7 @@
 	.js-timer-offers-title {
 		display: flex !important;
 		justify-content: center;
-		color: #ff8c00;
+		color: #2a8344;
 		font-size: 55px;
 		font-family: "Creepster", cursive;
 		text-shadow: 2px 2px 6px #000;
