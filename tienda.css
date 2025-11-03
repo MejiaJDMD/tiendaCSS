@@ -56,8 +56,8 @@
 	border: 1px solid white;
 	border-bottom: 0px;
 	backdrop-filter: blur(8px);
-	color: white !important;
-	fill: white !important;
+	color: black !important;
+	fill: black !important;
 	font-weight: 700;
 }
 
