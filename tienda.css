@@ -1,0 +1,98 @@
+
+/* TIPO DE LETRA DE EL GOOGLE FONTS */
+@import url("https://fonts.googleapis.com/css2?family=Creepster&family=Poppins:wght@400;600&display=swap");
+
+@media (min-width:1024px) {
+    /* ESTILO DE TITULO DE TEMPORIZADOR */
+	.js-timer-offers-title {
+		display: flex;
+		justify-content: center;
+		color: #ff8c00;
+		font-size: 85px;
+		font-family: "Creepster", cursive;
+		text-shadow: 2px 2px 6px #000;
+	}
+	
+	.js-timer-offers-text {
+		border: 1px solid white;
+		padding: 10px;
+		border-radius: 10px;
+		background-color: transparent;
+		backdrop-filter: blur(8px);
+		font-weight: 500;
+	}
+	
+	.js-timer-offers-cards {
+		margin-left: 15%;
+	}
+}
+
+
+/* ESTILO HEADER */
+.head-colors {
+	color: white !important;
+	fill: white !important;
+	background-image: url("https://res.cloudinary.com/djf458o6z/image/upload/v1760201620/WhatsApp_Image_2025-10-11_at_11.53.23_AM_cnryy2.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.head-colors a {
+	color: white;
+}
+
+.head-colors h1 {
+	color: white;
+}
+
+.nav-desktop-container.nav-desktop-colors a, .nav-desktop-container.nav-desktop-colors button, .nav-desktop-container.nav-desktop-colors svg, .head-colors .nav-desktop-container.nav-desktop-colors a, .head-colors .nav-desktop-container.nav-desktop-colors button, .head-colors .nav-desktop-container.nav-desktop-colors svg {
+	color: white;
+}
+
+.nav-desktop-container.nav-desktop-colors, .head-colors .nav-desktop-container.nav-desktop-colors {
+	background-color: transparent !important;
+	border-radius: 15px 15px 0px 0px;
+	border: 1px solid white;
+	border-bottom: 0px;
+	backdrop-filter: blur(8px);
+	color: white !important;
+	fill: white !important;
+	font-weight: 700;
+}
+
+.desktop-dropdown {
+	background-color: rgba(0, 0, 0, .6);
+}
+
+
+@media (max-width:1024px) {
+
+    /* Estilo de titulo de temporizador */
+	.js-timer-offers-title {
+		display: flex !important;
+		justify-content: center;
+		color: #ff8c00;
+		font-size: 55px;
+		font-family: "Creepster", cursive;
+		text-shadow: 2px 2px 6px #000;
+	}
+	
+	.js-timer-offers-text {
+		border: 1px solid white;
+		padding: 10px;
+		border-radius: 10px;
+		background-color: transparent;
+		backdrop-filter: blur(8px);
+		font-weight: 500;
+	}
+	
+	.js-timer-offers-cards {
+		margin-left: 0%;
+	}
+}
+
+.logo-img {
+	border-radius: 5px;
+	overflow: hidden;
+}
